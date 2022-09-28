@@ -1,4 +1,4 @@
-This program uses an external dependency of 'numpy'(Creating a list with all the oves names given in the dataset),
+This program uses an external dependency of 'numpy'(Creating a list with all the movies names given in the dataset),
 'pandas'(to make the csv file),
 'difflib'(findiing the close match), 
 'scikit-learn'('Tfidvectorizer' for converting text data to feature vectors & 'Cosine_Similarity' for getting the similarity scores)
